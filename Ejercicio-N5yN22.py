@@ -11,6 +11,7 @@ def romano_a_dec(rom):
 
 print(romano_a_dec("XX"))
 
+
 # Actividad 22: Mochila Jedi
 def usar_la_fuerza(mochila):
     objetos = 1
